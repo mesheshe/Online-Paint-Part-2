@@ -2,7 +2,10 @@
 
 This is the process:
 
-* Planning phase 
+* Planning phase
+
+    * Rust is the language of choice 
+
 * Build Phase
 * Test Phase 
 * Rewrite to Scale (MVP -> Production)
